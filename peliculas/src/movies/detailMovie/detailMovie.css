@@ -1,0 +1,16 @@
+h1 {
+    color: aliceblue;
+}
+
+.actor-font {
+    color: aliceblue;
+}
+
+.sinopsis-font {
+    font-size: 20pt;
+}
+
+li {
+    color: black;
+    font-size: 15pt;
+}
